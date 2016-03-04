@@ -1,0 +1,7 @@
+target/
+
+build/
+
+*.class
+
+partheban_backup_file/
